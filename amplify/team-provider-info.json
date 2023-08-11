@@ -10,14 +10,6 @@
       "StackName": "amplify-testnextapp-dev-203624",
       "StackId": "arn:aws:cloudformation:us-east-1:259421441156:stack/amplify-testnextapp-dev-203624/186745c0-37df-11ee-9f4a-12d2265f0c07",
       "AmplifyAppId": "drhjkq59eq99w"
-    },
-    "categories": {
-      "hosting": {
-        "amplifyhosting": {
-          "appId": "drhjkq59eq99w",
-          "type": "manual"
-        }
-      }
     }
   }
 }
